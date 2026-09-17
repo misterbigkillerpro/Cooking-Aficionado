@@ -217,3 +217,6 @@ Cooking Aficionado is the complete free version with all features and updates in
 ---
 
 Ready to elevate your cooking experience? Download Cooking Aficionado now and start managing your recipes with ease!
+
+---
+**Last updated:** 2026-09-17 14:34:58 UTC
